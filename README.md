@@ -21,20 +21,17 @@ I enjoy working on personal projects, outdoor-related apps, embedded systems exp
 
 #### 🧩 Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,angular,dotnet,prisma,flutter" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,angular,dotnet,prisma,flutter,discordjs" />
 </p>
 
 #### 🛠️ Tools & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,linux,bash,postman,nginx,redis,figma" />
+  <img src="https://skillicons.dev/icons?i=docker,git,linux,debian,bash,postman,nginx,redis,figma" />
 </p>
 
 #### ☁️ Cloud & Backend Services
 <p>
-  <img src="https://skillicons.dev/icons?i=firebase" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/Cloudflare%20R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" height="28" />
-  <img src="https://skillicons.dev/icons?i=vercel" />
+  <img src="https://skillicons.dev/icons?i=firebase,mysql,sqlite,vercel,cloudflare" />
 </p>
 
 #### 📸 Other Interests & Technologies
